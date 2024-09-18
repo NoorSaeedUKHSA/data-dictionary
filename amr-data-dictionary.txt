@@ -1,8 +1,21 @@
+
+
 AMR data
 
 100,000 rows of 12 variables 
 
 These data repreent the sort of data that might be obtained from the 2nd generarion surveillance system.
 
+*id Integer- A unique idenfifies for each person
+
+date of birth
+
+ethnicty
+
+deprivation
+
+meta data
+
+marital status
 
 
